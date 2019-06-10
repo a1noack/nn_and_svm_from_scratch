@@ -1,3 +1,6 @@
+'''Based on psuedocode provided here: http://cs229.stanford.edu/materials/smo.pdf
+'''
+
 import numpy as np
 import matplotlib.pyplot as plt
 
