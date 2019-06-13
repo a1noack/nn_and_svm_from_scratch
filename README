@@ -1,0 +1,11 @@
+The implementations for the SVM and the DNN are in svm.py and nn.py, respectively.
+
+Any code used to preprocess the original data is in the jupyter notebook preprocess_data.ipynb.
+
+The code used to perform hyperparameter searches using sklearn, generate baselines using sklearn, and train and test the hand-coded models can be found in run_algos.ipynb.
+
+The original data that I downloaded from UCI's ML repository (https://archive.ics.uci.edu/ml/datasets/Student+Performance#) can be found in the raw_data directory.
+
+The various versions of preprocessed data using can be found in the clean_data directory.
+
+The paper on which this project is somewhat based can be found here: http://www3.dsi.uminho.pt/pcortez/student.pdf.
